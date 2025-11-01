@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>✨ github:arulzzzxd/baileys</h1>
+  <h1>✨ github:arulzzzxd/baileys-pro</h1>
   <p><em>Modernized WhatsApp library built upon Baileys — refined, powerful, and developer-friendly ✨</em></p>
 
   <img src="https://raw.githubusercontent.com/arulzzzxd/uploadergh/main/uploads/1759943912065.jpg" width="300" alt="baileys Banner" />
@@ -35,5 +35,5 @@
 @whiskeysockets/baileys
 ```json
 "dependencies": {
-  "@whiskeysockets/baileys": "github:arulzzzxd/baileys"
+  "@whiskeysockets/baileys": "github:arulzzzxd/baileys-pro"
 }
